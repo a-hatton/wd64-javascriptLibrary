@@ -1,0 +1,39 @@
+body{
+    background-color: #d0d0d0;
+    padding: 1mm;
+    font-family: 'Gill Sans Mt', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#maintitle {
+    text-align: center;
+}
+
+div.main {
+    border: 2em solid black;
+    background-color: darkorchid;
+}
+
+#title {
+    text-align: center;
+    color: lightgreen;
+}
+
+h3 {
+    color: blue;
+}
+
+p  {
+    color: red;
+}
+
+.truthLie {
+    text-align: center;
+    background-color: lightgrey;
+    border: 2px;
+    border-radius: 5px solid green;
+}
+
+.align {
+    display: flex;
+    justify-content: space-evenly;
+}
